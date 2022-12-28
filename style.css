@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(12, 70, 0);
+}
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+    border: dotted;
+    border-color: rgb(255, 255, 255);
+}
+
+.name_of_objects {
+    color: rgb(192, 255, 155);
+    font-size: 18px;
+}
+
+#tittle {
+    color: rgb(255, 189, 224);
+    font-style: italic;
+}
+
+p {
+    color: rgb(255, 249, 214);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#l {
+    color: rgb(197, 187, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#camera {
+    width: 350px;
+    height: 300px;
+    border: dashed;
+    border-color: azure;
+}
